@@ -1,0 +1,12 @@
+D:\Projects\University\TESTS\labsFromGit\labsv2\lab4\SmartCalculator\bin\Debug\net5.0\SmartCalculator.deps.json
+D:\Projects\University\TESTS\labsFromGit\labsv2\lab4\SmartCalculator\bin\Debug\net5.0\SmartCalculator.dll
+D:\Projects\University\TESTS\labsFromGit\labsv2\lab4\SmartCalculator\bin\Debug\net5.0\ref\SmartCalculator.dll
+D:\Projects\University\TESTS\labsFromGit\labsv2\lab4\SmartCalculator\bin\Debug\net5.0\SmartCalculator.pdb
+D:\Projects\University\TESTS\labsFromGit\labsv2\lab4\SmartCalculator\obj\Debug\net5.0\SmartCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\University\TESTS\labsFromGit\labsv2\lab4\SmartCalculator\obj\Debug\net5.0\SmartCalculator.AssemblyInfoInputs.cache
+D:\Projects\University\TESTS\labsFromGit\labsv2\lab4\SmartCalculator\obj\Debug\net5.0\SmartCalculator.AssemblyInfo.cs
+D:\Projects\University\TESTS\labsFromGit\labsv2\lab4\SmartCalculator\obj\Debug\net5.0\SmartCalculator.csproj.CoreCompileInputs.cache
+D:\Projects\University\TESTS\labsFromGit\labsv2\lab4\SmartCalculator\obj\Debug\net5.0\SmartCalculator.dll
+D:\Projects\University\TESTS\labsFromGit\labsv2\lab4\SmartCalculator\obj\Debug\net5.0\ref\SmartCalculator.dll
+D:\Projects\University\TESTS\labsFromGit\labsv2\lab4\SmartCalculator\obj\Debug\net5.0\SmartCalculator.pdb
+D:\Projects\University\TESTS\labsFromGit\labsv2\lab4\SmartCalculator\obj\Debug\net5.0\SmartCalculator.csproj.AssemblyReference.cache

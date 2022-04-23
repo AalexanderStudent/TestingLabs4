@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9a8e70ac-6157-4a31-9484-d4b2c1915dc7": {
+      "ProjectGuid": "9a8e70ac-6157-4a31-9484-d4b2c1915dc7",
+      "DisplayName": "SmartCalculator",
+      "ColorIndex": 0
+    },
+    "42240d52-a9df-4123-9ad9-444898a9f37e": {
+      "ProjectGuid": "42240d52-a9df-4123-9ad9-444898a9f37e",
+      "DisplayName": "SmartCalc.Specs",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
